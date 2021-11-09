@@ -15,6 +15,9 @@ public class GetTotalProducts implements com.ibm.rational.test.lt.kernel.custom.
 	    if ( m.find() ) {
 	    	tes.getTestLogManager().reportMessage( m.group( 1 ) );
 	    	result = m.group( 1 );
+	    	if( result.equals("0")) {
+	    		result="-1";
+	    	}
 	    }
 	    else {
 	    	tes.getTestLogManager().reportMessage( "No result" );
