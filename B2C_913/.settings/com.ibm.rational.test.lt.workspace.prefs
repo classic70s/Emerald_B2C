@@ -1,10 +1,4 @@
-StickyFolders///917_Results=com.ibm.rational.test.lt.workspace.unknown
-StickyFolders///CPT=com.ibm.rational.test.lt.test
-StickyFolders///CPT/misc=com.ibm.rational.test.lt.test
-StickyFolders///Datapools/CPT=com.ibm.rational.test.lt.datapool
-StickyFolders///FlatModules=com.ibm.rational.test.lt.workspace.unknown
-StickyFolders///Location=com.ibm.rational.test.lt.workspace.unknown
-StickyFolders///NewDev=com.ibm.rational.test.lt.workspace.unknown
-StickyFolders///Recordings=com.ibm.rational.test.lt.workspace.unknown
-StickyFolders///Schedules_B2C/CPT=com.ibm.rational.test.lt.rate.schedule,com.ibm.rational.test.lt.schedule
+StickyFolders///CustomConnections=com.ibm.rational.test.lt.test
+StickyFolders///CustomConnections/CPT=com.ibm.rational.test.lt.test
+StickyFolders///CustomConnections/NewDev=com.ibm.rational.test.lt.test
 eclipse.preferences.version=1
