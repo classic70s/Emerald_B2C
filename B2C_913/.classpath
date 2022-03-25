@@ -5,10 +5,11 @@
 	<classpathentry kind="src" output="bin" path="src"/>
 	<classpathentry kind="lib" path="libs/gson-2.8.6-javadoc.jar"/>
 	<classpathentry kind="lib" path="libs/gson-2.8.6.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/HCL/HCLIMShared/plugins/com.ibm.rational.test.lt.codegen.core_7.3.1100.v20210611_2018/libraries/httpclient-4.5.6.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/HCL/HCLIMShared/plugins/com.ibm.rational.test.lt.codegen.core_7.3.1100.v20210611_2018/libraries/httpcore-4.4.10.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/HCL/HCLIMShared/plugins/com.ibm.rational.test.lt.codegen.core_7.3.1100.v20210611_2018/libraries/httpmime-4.5.6.jar"/>
-	<classpathentry kind="lib" path="C:/Program Files/HCL/HCLIMShared/plugins/com.ibm.rational.test.lt.codegen.core_7.3.1100.v20210611_2018/libraries/slf4j-simple-1.7.30.jar"/>
-	<classpathentry kind="lib" path="D:/HCL/workspace_917_CPT/zippedExtLibs/RPTKHelpers.zip"/>
+	<classpathentry kind="lib" path="C:/zippedExtLibs/RPTKHelpers.zip"/>
+	<classpathentry kind="lib" path="C:/Program Files/HCL/HCLIMShared/plugins/com.ibm.rational.test.lt.codegen.core_7.3.1200.v20210906_0702/libraries/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/HCL/HCLIMShared/plugins/com.ibm.rational.test.lt.codegen.core_7.3.1200.v20210906_0702/libraries/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/HCL/HCLIMShared/plugins/com.ibm.rational.test.lt.codegen.core_7.3.1200.v20210906_0702/libraries/httpmime-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/HCL/HCLIMShared/plugins/com.ibm.rational.test.lt.codegen.core_7.3.1200.v20210906_0702/libraries/slf4j-simple-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/onetest/HCL/hclonetest/workspace/zippedExtLibs/RPTKHelpers.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
